@@ -1,7 +1,7 @@
 # EXNO:4-DS
 ```
        Name:Thirumurugan. K
-       Register Number: 212224110057
+       Reg No: 212224110057
 ```
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
